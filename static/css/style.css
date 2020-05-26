@@ -1,0 +1,18 @@
+/*@media only screen and (max-width: 600px){*/
+    /*.row{*/
+        /*display:flex;*/
+        /*flex-direction: column;*/
+    /*}*/
+/*}*/
+
+
+
+.card{
+    height: 400px;
+    overflow: hidden;
+}
+
+.card-image{
+    height:250px;
+    overflow: hidden;
+}
